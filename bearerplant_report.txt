@@ -1,0 +1,37 @@
+Bearer Plant Report
+
+ID: 2
+Date: 2023-06-26
+Code: MK001
+Type: Musang King
+Age: 1
+Condition: Good
+
+ID: 3
+Date: 2023-07-28
+Code: IOI001
+Type: 101
+Age: 1
+Condition: Good
+
+ID: 4
+Date: 2023-06-27
+Code: BT001
+Type: Black Thorn
+Age: 1
+Condition: Good
+
+ID: 5
+Date: 2023-06-01
+Code: MK002
+Type: Musang King
+Age: 2
+Condition: Bad
+
+ID: 6
+Date: 2023-06-27
+Code: IOI002
+Type: 101
+Age: 2
+Condition: Poor
+
