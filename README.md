@@ -1,6 +1,6 @@
 # Durian Management System
 
-A PHP-based web application for efficient durian farm management. This system provides tools for tracking harvests, sales, costs, inventory, and detailed tree health information.
+This system provides tools for tracking harvests, sales, costs, inventory, and detailed tree health information.
 
 ## Core Functionalities:
 
